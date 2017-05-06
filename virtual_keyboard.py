@@ -15,7 +15,7 @@ class _PopupKeyboard(Toplevel):
         :param x: x position
         :param y: y position
         :param keycolor: key color
-        :param keysize: kwy size
+        :param keysize: key size
         """
         Toplevel.__init__(self, takefocus=0)
 
